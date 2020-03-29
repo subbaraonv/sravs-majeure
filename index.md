@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Versatile Project Manager known for successfully executing diverse project tasks to accomplish pending deadlines. Enthusiastic problem solver and talented performer with superior communication, planning and decision making skills. Operate effectively in busy, deadline-oriented settings and work well with all stakeholders.
+Versatile Project Manager known for successfully executing diverse project tasks to accomplish pending deadlines. Enthusiastic problem solver and talented performer with superior communication, planning and decision making skills. Operates effectively in busy, deadline-oriented settings and work well with all stakeholders.
 
 ## Overview
 
@@ -16,10 +16,12 @@ Versatile Project Manager known for successfully executing diverse project tasks
 | Database Management  | Very good  |
 | Project Management  | Good |
 
+* * *
+
 ## Work History
 
 #### Project Analyst (Mar 2019 to date)
-> Juego Studio (Bengaluru, Karanataka)
+`Juego Studio (Bengaluru, Karnataka)`
 
 * Transitioned projects from requirement gathering, estimation and pre-production phase to well-defined project execution plan and maintenance phase
 
@@ -42,9 +44,10 @@ Versatile Project Manager known for successfully executing diverse project tasks
 
 * Traveled to off-site serving as clien's primary liaison with customers by providing detailed progress reports
 
+* * *
 
 #### Quality Assurance Tester II (till Feb 2019)
-> Electronic Arts Games Private Limited (Hyderabad, Telangana)
+`Electronic Arts Games Private Limited (Hyderabad, Telangana)`
 
 * As Quality Assurance Tester II, took the initiative ownership of an entire project alone from QA and updating the day to day status mail of scope testing to the Project Lead and Manager. The update has been delivered successfully on 3 platforms without a single issue raised after the submission
 
